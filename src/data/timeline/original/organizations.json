@@ -1,0 +1,12 @@
+
+{
+  "title": "Organizaciones",
+  "items": [
+    { "title": "GEHIRN (primera etapa)", "text": "Organización encubierta fundadora de NERV, con mayoría de miembros de SEELE. Desarrollo de los prototipos EVA (Primera Etapa E de NERV). Dirigida por Gendo Ikari, Yui Ikari y Naoko Akagi hasta 2004." },
+    { "title": "NERV", "text": "Agencia militar internacional con sede en Tokio-3, dependiente oficialmente de la ONU. Objetivo declarado: defender a la humanidad de los Ángeles con los EVAs. En la práctica, NERV ejecuta el Proyecto de Instrumentalización Humana de SEELE. Comandantes: Gendo Ikari (director), Fuyutsuki (subdirector). Estructura militarizada con áreas de desarrollo, combate y Dogma. Líneas de mando bajo escrutinio del Comité SEELE." },
+    { "title": "Marduk", "text": "Agencia ficticia tapadera que supervisa la selección de los “Niños Electos” para pilotar EVAs. Vende la imagen de un programa de defensa mundial, pero en realidad sus fondos y decisiones son controladas por SEELE a través de NERV. Ryoji Kaji descubre su rol real al infiltrarse en NERV." },
+    { "title": "SEELE", "text": "Comité de sabios encapuchados que domina en las sombras la reconstrucción del mundo. Patrocinan los proyectos de GEHIRN/NERV para garantizar que los Ángeles sigan un guión que lleve a la Instrumentalización Humana (fusión de las almas). Usan a Gendo como peón, pero al final se oponen a su plan privado, lo que provoca la guerra NERV vs. SEELE en The End." },
+    { "title": "ONU (Organización de Naciones Unidas)", "text": "Unión de países tras el Segundo Impacto. Reconstruye gobiernos y fuerzas armadas (incluyendo NERV) con apoyo de Estados Unidos, China y SEELE. Establece la JSSDF y financia la carrera armamentística con EVAs." },
+    { "title": "JSSDF (Self-Defense Forces de Japón)", "text": "Fuerzas de autodefensa japonesas rearmadas tras la devastación. A cargo del teniente coronel Kōzō Fuyutsuki (jefe de Defensa). Colabora con NERV contra los Ángeles (proporciona armamento especial: rifles N², Nagasaki Gun, etc). Al final (EoE), interviene en contra de NERV cuando SEELE toma el control, causando una masacre interna que precipita el Tercer Impacto." }
+  ]
+}

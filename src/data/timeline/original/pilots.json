@@ -1,0 +1,12 @@
+
+{
+  "title": "Pilotos",
+  "items": [
+    { "title": "Shinji Ikari (EVA-01)", "text": "Presenta baja sincronización inicial (~50%); mejora progresivamente tras cada crisis. Su conexión es especial por portar el alma de su madre en el EVA. Momentos clave: rebeldía contra Gendo (episodio 1); muerte de Kaworu; rechazo final de Instrumentalización." },
+    { "title": "Rei Ayanami (EVA-00)", "text": "Su sincronización con EVA-00 siempre es muy alta (cerca del 90–100%). Es fría e introvertida hasta que Shinji la insta a sonreír (episodio 23) y a enfrentar su destino. Rei es el eje que permite a Gendo realizar parte del plan (acude a Lilith). La versión final (Rei-III) elige a Shinji sobre Gendo, renunciando a ser instrumento." },
+    { "title": "Asuka Langley (EVA-02)", "text": "Sincronía excepcional (llega al 100% antes de lo previsto). Orgullosa y agresiva: muchos de sus mejores combates son físicos (Gaghiel) o sincronizados (Israfel). Cae en shock psicológico al perder al primer amor (Kaji) y fracasar frente a Arael, momento tras el cual pierde capacidad de pilotaje (episodio 25)." },
+    { "title": "Kaworu Nagisa (EVA-02 pre-equip, EVA-01/Mark.06 en proyecto)", "text": "Por ser Ángel (semilla de Adam), su compatibilidad es instantánea al 100%. Muestra afecto e inocencia genuinos, enseñando a Shinji a aceptarse. Su momento culminante es solicitar ser destruido para detener la catástrofe: Shinji cede matándolo con EVA-01." },
+    { "title": "Toji Suzuhara (EVA-03)", "text": "Aunque fue seleccionado piloto de EVA-03, sólo lo pilota brevemente (episodio 18). Es una persona de acción, motivado por proteger a sus seres queridos. Pierde su pierna luchando contra el Ángel Bardiel (Unidad-03)." },
+    { "title": "Otros pilotos breves", "text": "Kensuke Aida protagoniza vuelos de simulador; en The End Shinji, Asuka y Rei se reencuentran simbólicamente como pilotos de sus EVAs en el nuevo mundo." }
+  ]
+}
