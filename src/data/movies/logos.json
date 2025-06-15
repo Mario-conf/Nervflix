@@ -1,0 +1,57 @@
+[
+  {
+    "id": "logo-01",
+    "name": "Logo 01",
+    "imageUrl": "/screenpng/logos/01.png"
+  },
+  {
+    "id": "logo-02",
+    "name": "Logo 02",
+    "imageUrl": "/screenpng/logos/02.png"
+  },
+  {
+    "id": "logo-03",
+    "name": "Logo 03",
+    "imageUrl": "/screenpng/logos/03.png"
+  },
+  {
+    "id": "logo-04",
+    "name": "Logo 04",
+    "imageUrl": "/screenpng/logos/04.png"
+  },
+  {
+    "id": "logo-05",
+    "name": "Logo 05",
+    "imageUrl": "/screenpng/logos/05.png"
+  },
+  {
+    "id": "logo-06",
+    "name": "Logo 06",
+    "imageUrl": "/screenpng/logos/06.png"
+  },
+  {
+    "id": "logo-07",
+    "name": "Logo 07",
+    "imageUrl": "/screenpng/logos/07.png"
+  },
+  {
+    "id": "logo-08",
+    "name": "Logo 08",
+    "imageUrl": "/screenpng/logos/08.png"
+  },
+  {
+    "id": "logo-09",
+    "name": "Logo 09",
+    "imageUrl": "/screenpng/logos/09.png"
+  },
+  {
+    "id": "logo-10",
+    "name": "Logo 10",
+    "imageUrl": "/screenpng/logos/10.png"
+  },
+  {
+    "id": "logo-11",
+    "name": "Logo 11",
+    "imageUrl": "/screenpng/logos/11.png"
+  }
+]

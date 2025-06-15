@@ -1,15 +1,21 @@
+interface Logo {
+  id: string;
+  name: string;
+  imageUrl: string;
+}
 
-const imageFiles = import.meta.glob<{ default: string }>('/src/data/movies/screenpng/logos/*', { eager: true });
+import rawLogosData from './movies/logos.json';
 
-const logos: { id: string; name: string; imageUrl: string }[] = Object.entries(imageFiles).map(([path, module], index) => {
-    const nameWithSpaces = path.split('/').pop()?.replace(/\..+$/, '').replace(/[-_]/g, ' ') ?? `Logo ${index + 1}`;
-    const name = nameWithSpaces.charAt(0).toUpperCase() + nameWithSpaces.slice(1);
+const processedLogos: Logo[] = (rawLogosData as Logo[]).map((logo, index) => {
+    const nameFromUrl = logo.imageUrl.split('/').pop()?.replace(/\..+$/, '').replace(/[-_]/g, ' ') ?? `Logo ${index + 1}`;
+    const formattedName = nameFromUrl.charAt(0).toUpperCase() + nameFromUrl.slice(1);
     
     return {
-        id: `logo-${index}`,
-        name,
-        imageUrl: module.default,
+        id: logo.id || `logo-${index}`, 
+        name: logo.name || formattedName, 
+        imageUrl: logo.imageUrl, 
     };
 });
 
-export default logos;
+export const logos: Logo[] = processedLogos;
+export default processedLogos;
