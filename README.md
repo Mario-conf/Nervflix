@@ -3,7 +3,7 @@
 Una plataforma de streaming inspirada en Netflix, dedicada exclusivamente al universo de **Neon Genesis Evangelion**.
 Explora la serie original y las películas *Rebuild* en una experiencia cinematográfica inmersiva.
 
-[![Nervflix Live Demo](https://img.shields.io/badge/Nervflix-Live%20Demo-red?style=for-the-badge\&logo=react)](https://nervflix-demo.example.com)
+[![Nervflix Live Demo](https://img.shields.io/badge/Nervflix-Live%20Demo-red?style=for-the-badge\&logo=react)](https://nervflix.vercel.app/)
 
 ---
 
@@ -159,8 +159,7 @@ Este proyecto está bajo la **Licencia MIT** – consulta el archivo `LICENSE`.
 A Netflix-inspired streaming platform dedicated exclusively to the world of **Neon Genesis Evangelion**.
 Experience the original series and the *Rebuild* films in an immersive, cinematic interface.
 
-[![Nervflix Live Demo](https://img.shields.io/badge/Nervflix-Live%20Demo-red?style=for-the-badge\&logo=react)](https://nervflix-demo.example.com)
-
+[![Nervflix Live Demo](https://img.shields.io/badge/Nervflix-Live%20Demo-red?style=for-the-badge\&logo=react)](https://nervflix.vercel.app/)
 ---
 
 ## ✨ Features
