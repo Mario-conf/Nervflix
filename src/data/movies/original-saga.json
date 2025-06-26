@@ -27,6 +27,16 @@
   { "id": "eva-ep-25", "title": "Ep. 25: ¿Me amas?", "imageUrl": "/screenpng/ep25-img.png", "description": "La Instrumentalización ha comenzado, y ahora se representará su proceso interno, la unión de todas las almas en una. El episodio está impulsado principalmente por el diálogo, el fondo suele ser una oscuridad total. A menudo aparece texto blanco sobre una pantalla negra, una voz omnisciente que cuestiona a los personajes.", "videoUrl": "https://dn720205.ca.archive.org/0/items/evangelioncastellano/25%20-%20Aire%20Un%20mundo%20que%20se%20acaba.mp4" },
   { "id": "eva-ep-26", "title": "Ep. 26: Cuídate", "imageUrl": "/screenpng/ep26-img.png", "description": "La Instrumentalización continúa. El foco está principalmente en Shinji ahora, mientras aprende a aceptar la capacidad del individuo para dar forma a su mundo, y cómo el yo no puede existir sin otros para definirlo.", "videoUrl": "https://dn720205.ca.archive.org/0/items/evangelioncastellano/26%20-%20La%20bestia%20que%20gritaba%20amor%20en%20el%20coraz%C3%B3n%20del%20mundo.mp4" },
   {
+  "id": "eva-death-true2",
+  "title": "EVANGELION: DEATH (TRUE)²",
+  "imageUrl": "/screenpng/death-true2.png",
+  "description": "Una recompilación y reestructuración de escenas de la serie original 'Neon Genesis Evangelion', incluyendo metraje adicional y no utilizado, presentado en un formato de 'concierto' temático. Sirve como un preludio y un resumen de la trama antes de los eventos de 'The End of Evangelion'.",
+  "videoUrl": "https://archive.org/download/neon-genesis-evangelion-death-rebirth/Neon%20Genesis%20Evangelion%20Death%20%26%20Rebirth.mp4",
+  "year": 1998,
+  "duration": "68 min",
+  "creator": "Hideaki Anno"
+},
+  {
     "id": "the-end-of-evangelion",
     "title": "The End of Evangelion",
     "description": "Tras la muerte de Kaworu, Shinji cae en una profunda depresión. SEELE lanza un asalto brutal contra NERV con sus Evangelions de Producción en Masa para iniciar el Tercer Impacto. Mientras Asuka lucha desesperadamente, Gendo intenta ejecutar su propio plan con Rei. Shinji debe enfrentar su dolor y decidir el destino de la humanidad.",
@@ -36,4 +46,5 @@
     "duration": "87 min",
     "creator": "Hideaki Anno"
   }
+  
 ]
